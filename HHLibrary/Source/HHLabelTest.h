@@ -13,4 +13,6 @@
 
 - (void)testLabelTest;
 
+- (void)testLabelMore;
+
 @end

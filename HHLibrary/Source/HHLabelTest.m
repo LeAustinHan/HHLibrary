@@ -23,4 +23,8 @@
     NSLog(@"LabelTest successful");
 }
 
+- (void)testLabelMore{
+    NSLog(@"LabelMore");
+}
+
 @end
